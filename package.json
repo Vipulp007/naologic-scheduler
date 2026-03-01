@@ -9,9 +9,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
-    "luxon": "^3.7.2"
+    "@types/luxon": "^3.7.1"
   },
   "devDependencies": {
     "@types/node": "^25.3.3",
