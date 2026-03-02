@@ -4,14 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx ts-node src/index.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
   "dependencies": {
-    "@types/luxon": "^3.7.1"
+    "@types/luxon": "^3.7.1",
+    "luxon": "^3.7.2"
   },
   "devDependencies": {
     "@types/node": "^25.3.3",

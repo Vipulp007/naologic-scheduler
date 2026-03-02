@@ -30,3 +30,4 @@ Thumbs.db
 .eslintcache
 
 .devcontainer/
+package-lock.json
