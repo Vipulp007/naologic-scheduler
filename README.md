@@ -34,22 +34,6 @@ This project implements a **reflow algorithm** that recalculates the production 
 
 ---
 
-# Project Structure
-
-src/
-│
-├── utils/ # Sample scheduling scenarios
-│
-├── reflow/
-│ ├── reflow.service.ts # Main scheduling engine
-│ ├── dependency-graph.ts # DAG + topological sorting
-│ ├── shift-calculator.ts # Shift-aware duration engine
-│ └── types.ts # Domain models and interfaces
-│
-└── index.ts # Entry point to run scenarios
-
----
-
 # Architecture
 
 The system is composed of three main components.
