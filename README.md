@@ -85,7 +85,7 @@ It handles:
 Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/production-reflow-system.git
+git clone https://github.com/Vipulp007/naologic-scheduler.git
 cd production-reflow-system
 npm install
 npm run dev
